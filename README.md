@@ -8,7 +8,7 @@
 
 This project is a **handwritten digit classifier** built using **TensorFlow**. The model was trained on the **Digit Recognizer dataset** from **Kaggle** and achieved an accuracy of **99%**. The classifier identifies digits (0-9) from grayscale images of handwritten digits.
 
-![Handwritten Digit Classifier](https://miro.medium.com/v2/resize:fit:828/format:webp/1*BCX-rvOjq_nkHcpIVhEFfw.png)
+![Handwritten Digit Classifier]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40sammedapatil003%2Fhandwritten-digit-recognition-2fa1ae839305&psig=AOvVaw3ay7DoHfGbuEYNSzvg945o&ust=1728953977420000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjS9M7VjIkDFQAAAAAdAAAAABAJ))
 
 ## Dataset
 
